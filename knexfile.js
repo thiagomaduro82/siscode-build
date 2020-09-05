@@ -6,9 +6,9 @@ module.exports = {
     client: 'mysql2',
     connection: {
       host: '127.0.0.1',
-      database: 'buid_db',
+      database: 'build_db',
       user: 'root',
-      password: 'th200182'
+      password: ''
     },
     migrations: {
       tableName: 'knex_migrations',

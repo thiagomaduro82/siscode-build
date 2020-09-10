@@ -8,7 +8,7 @@ module.exports = {
       host: '127.0.0.1',
       database: 'build_db',
       user: 'root',
-      password: ''
+      password: 'th200182'
     },
     migrations: {
       tableName: 'knex_migrations',
